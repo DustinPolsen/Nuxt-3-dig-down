@@ -1,0 +1,7 @@
+{
+ "css.validate": false,
+ "files.associations": {
+  "*.css": "tailwindcss"
+},
+"tailwindCSS.experimental.configFile": ".nuxt/tailwind.config.cjs"
+}
